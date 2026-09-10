@@ -1,0 +1,15 @@
+{
+  "name": "genpark-order-flow-imbalance-ofi-skill",
+  "version": "1.0.0",
+  "description": "Cont-Kukanov-Stoikov Order Flow Imbalance (OFI) predictor forecasting short-term price movements via quote level depth dynamics.",
+  "tags": [
+    "genpark-skill",
+    "agentic-ai",
+    "ofi",
+    "order-flow",
+    "market-microstructure",
+    "predictive-alpha"
+  ],
+  "entrypoint": "client.py",
+  "dependencies": []
+}
